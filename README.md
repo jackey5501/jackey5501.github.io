@@ -19,7 +19,7 @@ Beyond engineering, I am a dedicated fitness enthusiast focused on calisthenics.
 ### Long-Term Vision
 I aim to graduate from the **Georgia Tech BS/MS (4+1) program** and secure a position as a Senior Hardware Architect or Technical Lead at a major tech firm in the U.S.
 
-### Short-Term Action Plan (3-5 Steps)
+### Short-Term Action Plan
 * **Maintain Academic Excellence:** Keep a GPA above 3.5 to qualify for the 4+1 Master's pathway.
 * **Research & VIP:** Participate in undergraduate research or the VIP program focused on Integrated Systems or DSP starting Fall 2026.
 * **Industry Internship:** Secure a hardware engineering internship in the U.S. (preferably Atlanta) by Summer 2027.
@@ -28,16 +28,14 @@ I aim to graduate from the **Georgia Tech BS/MS (4+1) program** and secure a pos
 ---
 
 ## 4. Technical Projects (Discovery Project)
-### [Project Name: e.g., Non-Linear Optics Research / INTSIG Automation]
-*This section needs to be ~500 words to meet the requirement.*
+### 
 
 **Overview:** 
 During my internship at **INTSIG**, I engineered an end-to-end automation pipeline that scaled the company's poster template library, increasing efficiency by **50x**[cite: 2, 3]. I fine-tuned a Large Language Model (LLM) and scripted a Python workflow to automate batch creation via an image generation API[cite: 2, 3].
 
 **Key Results:** 
-* Developed custom training loops to move beyond high-level APIs[cite: 3].
-* Diagnosed and addressed compositional flaws in generated images[cite: 3].
-*(注：在这里详细描述你的 Discovery Project 细节，解释你使用的技术、遇到的挑战以及最后的成果。)*
+* Developed custom training loops to move beyond high-level APIs.
+* Diagnosed and addressed compositional flaws in generated images.
 
 ---
 
